@@ -66,7 +66,7 @@ The Police report dataset is a US record of Police activity in the US police div
 * Number “3” is the mode among the District of occurrence.
 
 ### Recommendations
-1. **Hotspot Policing**:Concentrating police presence in areas with high crime rates like District”3” majorly on the “Non Hispanic” to deter potential offenders.
+1. **Hotspot Policing**: Concentrating police presence in areas with high crime rates like District”3” majorly on the “Non Hispanic” to deter potential offenders.
 2. **Increased Patrols**: Increased visible police presence can deter crime through increased risk of apprehension.
 3. **Transparency and Accountability**: Implementing measures to increase public confidence in the police, including oversight mechanisms and investigating misconduct, building trust through community outreach and holding officers accountable for misconduct.
 4. **Public Education**: Educating the public about crime prevention strategies, reporting procedures, and the role of law enforcement.
