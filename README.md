@@ -42,7 +42,7 @@ The Police report dataset is a US record of Police activity in the US police div
 * 2.  Police arrest “Adjacent to school” column was edited for proper analysis as “Yes or No” against “1&0”.
 * 3. Duplicate value check: no duplicates found.
 * 4. The "Date of purchase" column is been split into Days, Month, and Year of purchase for proper analysis.
-* 5. Adjacent to School column was rename to “YES” and “NO” for the illustration
+* 5. Adjacent to School column was rename to “YES” and “NO” for proper illustration
 
 ### Inference Analysis
   The analysis uses several techniques:
